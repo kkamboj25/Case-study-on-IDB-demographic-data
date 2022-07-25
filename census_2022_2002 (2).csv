@@ -1,0 +1,455 @@
+"country","region","subregion","year","total.fertility.rate","life.expectancy.both.sexes","life.expectancy.males","life.expectancy.females"
+"Afghanistan","Asia","South-Central Asia",2002,6,46.1,45.11,47.15
+"Afghanistan","Asia","South-Central Asia",2022,4.624,53.65,52.1,55.28
+"Albania","Europe","Southern Europe",2002,1.9949,75.44,72.79,78.43
+"Albania","Europe","Southern Europe",2022,1.5402,79.47,76.8,82.33
+"Algeria","Africa","Northern Africa",2002,2.3304,72.99,72.06,73.97
+"Algeria","Africa","Northern Africa",2022,2.5058,78.03,76.57,79.57
+"American Samoa","Oceania","Polynesia",2002,3.903,69.92,68.38,71.55
+"American Samoa","Oceania","Polynesia",2022,2.206,75.32,72.83,77.97
+"Andorra","Europe","Southern Europe",2002,1.4164,82.36,80.4,84.35
+"Andorra","Europe","Southern Europe",2022,1.4474,83.42,81.2,85.79
+"Angola","Africa","Middle Africa",2002,6.7183,53.27,51.34,55.26
+"Angola","Africa","Middle Africa",2022,5.8291,62.11,60.05,64.24
+"Anguilla","Americas","Caribbean",2002,1.7404,79.14,76.94,81.41
+"Anguilla","Americas","Caribbean",2022,1.7235,82.2,79.59,84.89
+"Antigua and Barbuda","Americas","Caribbean",2002,2.106,74.23,72.56,75.98
+"Antigua and Barbuda","Americas","Caribbean",2022,1.952,77.8,75.63,80.08
+"Argentina","Americas","South America",2002,2.4669,75.23,72.16,78.49
+"Argentina","Americas","South America",2022,2.182,78.31,75.23,81.59
+"Armenia","Asia","Western Asia",2002,1.7325,71.75,68.8,75.24
+"Armenia","Asia","Western Asia",2022,1.6502,76.13,72.86,79.68
+"Aruba","Americas","Caribbean",2002,1.8583,73.37,70.34,76.46
+"Aruba","Americas","Caribbean",2022,1.826,78.01,74.93,81.15
+"Australia","Oceania","Australia/New Zealand",2002,1.7529,79.7,77.25,82.27
+"Australia","Oceania","Australia/New Zealand",2022,1.7339,83.09,80.93,85.36
+"Austria","Europe","Western Europe",2002,1.3928,78.88,76.1,81.79
+"Austria","Europe","Western Europe",2022,1.5067,82.27,79.64,85.04
+"Azerbaijan","Asia","Western Asia",2002,1.777,68.22,65.32,71.61
+"Azerbaijan","Asia","Western Asia",2022,1.8646,74.15,71.08,77.41
+"Bahamas, The","Americas","Caribbean",2002,2.0151,71.77,68.44,75.19
+"Bahamas, The","Americas","Caribbean",2022,1.977,76.13,73.2,79.14
+"Bahrain","Asia","Western Asia",2002,2.4765,75.44,73.5,77.43
+"Bahrain","Asia","Western Asia",2022,1.6697,79.9,77.63,82.24
+"Bangladesh","Asia","South-Central Asia",2002,3.032,68.18,66.49,69.94
+"Bangladesh","Asia","South-Central Asia",2022,2.09,74.7,72.52,76.96
+"Barbados","Americas","Caribbean",2002,1.7065,74.69,72.06,77.36
+"Barbados","Americas","Caribbean",2022,1.7038,78.55,75.79,81.35
+"Belarus","Europe","Eastern Europe",2002,1.21,68.23,62.37,74.43
+"Belarus","Europe","Eastern Europe",2022,1.5112,74.28,68.9,79.97
+"Belgium","Europe","Western Europe",2002,1.6523,78.12,75.14,81.26
+"Belgium","Europe","Western Europe",2022,1.7685,81.86,79.25,84.59
+"Belize","Americas","Central America",2002,3.956,72.46,70.86,74.15
+"Belize","Americas","Central America",2022,2.624,75.82,74.23,77.5
+"Benin","Africa","Western Africa",2002,5.9511,54.51,53.03,56.06
+"Benin","Africa","Western Africa",2022,5.4289,62.21,60.39,64.14
+"Bermuda","Americas","Northern America",2002,1.99,79.43,76.04,83
+"Bermuda","Americas","Northern America",2022,1.8983,82.04,78.96,85.28
+"Bhutan","Asia","South-Central Asia",2002,3.4,62.65,61.91,63.42
+"Bhutan","Asia","South-Central Asia",2022,1.79,72.31,71.19,73.49
+"Bolivia","Americas","South America",2002,3.84,65.59,63.37,67.92
+"Bolivia","Americas","South America",2022,2.328,72.5,71.04,74.02
+"Bosnia and Herzegovina","Europe","Southern Europe",2002,1.2022,73.88,70.6,77.36
+"Bosnia and Herzegovina","Europe","Southern Europe",2022,1.3607,77.98,75.02,81.15
+"Botswana","Africa","Southern Africa",2002,3.4632,50.57,49.56,51.61
+"Botswana","Africa","Southern Africa",2022,2.394,65.64,63.6,67.74
+"Brazil","Americas","South America",2002,2.2585,70.04,66.47,73.79
+"Brazil","Americas","South America",2022,1.8,75.92,72.5,79.5
+"Brunei","Asia","South-Eastern Asia",2002,2.4276,74.06,72.21,76
+"Brunei","Asia","South-Eastern Asia",2022,1.742,78.38,76.01,80.86
+"Bulgaria","Europe","Eastern Europe",2002,1.2201,71.65,68.5,75.05
+"Bulgaria","Europe","Eastern Europe",2022,1.5001,75.57,72.36,78.97
+"Burkina Faso","Africa","Western Africa",2002,6.6897,53.48,52.34,54.65
+"Burkina Faso","Africa","Western Africa",2022,4.266,63.44,61.63,65.31
+"Burma","Asia","South-Eastern Asia",2002,2.68,61.55,59.45,63.78
+"Burma","Asia","South-Eastern Asia",2022,2.022,69.92,68.27,71.67
+"Burundi","Africa","Eastern Africa",2002,6.5168,55.85,53.79,57.98
+"Burundi","Africa","Eastern Africa",2022,5.034,67.42,65.32,69.59
+"Cabo Verde","Africa","Western Africa",2002,3.335,67.87,65.89,69.92
+"Cabo Verde","Africa","Western Africa",2022,2.128,73.75,71.41,76.15
+"Cambodia","Asia","South-Eastern Asia",2002,3.542,58.7,56.56,60.93
+"Cambodia","Asia","South-Eastern Asia",2022,2.2404,70.65,68.79,72.59
+"Cameroon","Africa","Middle Africa",2002,5.6808,52.56,51.43,53.72
+"Cameroon","Africa","Middle Africa",2022,4.552,63.27,61.49,65.09
+"Canada","Americas","Northern America",2002,1.5029,80.27,77.84,82.83
+"Canada","Americas","Northern America",2022,1.5699,83.8,81.52,86.21
+"Cayman Islands","Americas","Caribbean",2002,1.9134,78.6,76.14,81.1
+"Cayman Islands","Americas","Caribbean",2022,1.8245,82.04,79.35,84.79
+"Central African Republic","Africa","Middle Africa",2002,5.1393,47.06,45.97,48.18
+"Central African Republic","Africa","Middle Africa",2022,4.04,55.52,54.19,56.88
+"Chad","Africa","Middle Africa",2002,7.2,50.46,49.03,51.95
+"Chad","Africa","Middle Africa",2022,5.46,59.15,57.32,61.06
+"Chile","Americas","South America",2002,1.9368,76.48,73.39,79.71
+"Chile","Americas","South America",2022,1.758,79.79,76.8,82.92
+"China","Asia","Eastern Asia",2002,1.51,72.5,70.1,75.32
+"China","Asia","Eastern Asia",2022,1.45,77.72,75,80.7
+"Colombia","Americas","South America",2002,2.4617,72.45,68.93,76.13
+"Colombia","Americas","South America",2022,1.9466,74.89,71.27,78.69
+"Comoros","Africa","Eastern Africa",2002,5.25,60.54,58.91,62.21
+"Comoros","Africa","Eastern Africa",2022,2.778,67.2,64.93,69.54
+"Congo (Brazzaville)","Africa","Middle Africa",2002,4.7433,53.89,52.95,54.85
+"Congo (Brazzaville)","Africa","Middle Africa",2022,4.362,62.1,60.65,63.61
+"Congo (Kinshasa)","Africa","Middle Africa",2002,6.5959,52.59,51.4,53.82
+"Congo (Kinshasa)","Africa","Middle Africa",2022,5.63,61.83,60.03,63.69
+"Cook Islands","Oceania","Polynesia",2002,3.0013,72.43,69.74,75.26
+"Cook Islands","Oceania","Polynesia",2022,2.068,77.14,74.32,80.11
+"Costa Rica","Americas","Central America",2002,2.0713,76.23,73.65,78.94
+"Costa Rica","Americas","Central America",2022,1.8623,79.64,76.99,82.43
+"Croatia","Europe","Southern Europe",2002,1.3227,74.64,70.95,78.53
+"Croatia","Europe","Southern Europe",2022,1.4463,77.22,74.1,80.53
+"Cuba","Americas","Caribbean",2002,1.6644,77.54,75.33,79.88
+"Cuba","Americas","Caribbean",2022,1.709,79.64,77.29,82.14
+"Curaçao","Americas","Caribbean",2002,2.1352,76.2,74.1,78.41
+"Curaçao","Americas","Caribbean",2022,1.98,79.42,77.09,81.87
+"Cyprus","Asia","Western Asia",2002,1.494,75.9,73.29,78.63
+"Cyprus","Asia","Western Asia",2022,1.4818,79.74,76.93,82.68
+"Czechia","Europe","Eastern Europe",2002,1.1753,75.38,72.15,78.8
+"Czechia","Europe","Eastern Europe",2022,1.4919,79.73,76.8,82.82
+"Côte d'Ivoire","Africa","Western Africa",2002,5.1818,51.17,49.37,53.02
+"Côte d'Ivoire","Africa","Western Africa",2022,3.534,62.26,60.07,64.52
+"Denmark","Europe","Northern Europe",2002,1.7239,77,74.8,79.33
+"Denmark","Europe","Northern Europe",2022,1.7719,81.66,79.74,83.71
+"Djibouti","Africa","Eastern Africa",2002,4.002,58.33,56.08,60.65
+"Djibouti","Africa","Eastern Africa",2022,2.15,65.3,62.72,67.96
+"Dominica","Americas","Caribbean",2002,2.212,75.72,72.99,78.6
+"Dominica","Americas","Caribbean",2022,2.016,78.21,75.25,81.31
+"Dominican Republic","Americas","Caribbean",2002,2.93,67.77,66.12,69.48
+"Dominican Republic","Americas","Caribbean",2022,2.212,72.56,70.86,74.33
+"Ecuador","Americas","South America",2002,2.855,73.63,70.75,76.65
+"Ecuador","Americas","South America",2022,2.042,78,75.06,81.1
+"Egypt","Africa","Northern Africa",2002,3.3368,68.4,67.18,69.69
+"Egypt","Africa","Northern Africa",2022,2.878,74.45,73.26,75.72
+"El Salvador","Americas","Central America",2002,2.728,69.52,65.86,73.37
+"El Salvador","Americas","Central America",2022,2.054,75.37,71.88,79.04
+"Equatorial Guinea","Africa","Middle Africa",2002,5.5528,58.13,56.1,60.23
+"Equatorial Guinea","Africa","Middle Africa",2022,4.2642,63.7,61.44,66.03
+"Eritrea","Africa","Eastern Africa",2002,5.73,60.21,57.95,62.54
+"Eritrea","Africa","Eastern Africa",2022,3.578,66.85,64.25,69.53
+"Estonia","Europe","Northern Europe",2002,1.3778,70.74,64.98,76.72
+"Estonia","Europe","Northern Europe",2022,1.6141,77.88,73.25,82.73
+"Eswatini","Africa","Southern Africa",2002,4.1053,47.26,45.72,48.85
+"Eswatini","Africa","Southern Africa",2022,2.444,59.69,57.62,61.81
+"Ethiopia","Africa","Eastern Africa",2002,5.361,54.56,53.08,56.08
+"Ethiopia","Africa","Eastern Africa",2022,3.992,68.25,66.12,70.44
+"Faroe Islands","Europe","Northern Europe",2002,2.548,78.81,76.56,81.18
+"Faroe Islands","Europe","Northern Europe",2022,2.2901,81.26,78.73,83.97
+"Fiji","Oceania","Melanesia",2002,2.6936,68.48,66.06,71.03
+"Fiji","Oceania","Melanesia",2022,2.258,74.27,71.6,77.07
+"Finland","Europe","Northern Europe",2002,1.7251,78.1,74.84,81.55
+"Finland","Europe","Northern Europe",2022,1.7398,81.76,78.86,84.79
+"France","Europe","Western Europe",2002,1.8796,79.44,75.95,83.11
+"France","Europe","Western Europe",2022,2.0341,82.59,79.53,85.79
+"French Polynesia","Oceania","Polynesia",2002,2.4144,73.24,71.24,75.34
+"French Polynesia","Oceania","Polynesia",2022,1.81,78.43,76.11,80.86
+"Gabon","Africa","Middle Africa",2002,4.1836,59.03,58.36,59.73
+"Gabon","Africa","Middle Africa",2022,3.31,69.7,67.98,71.48
+"Gambia, The","Africa","Western Africa",2002,6.1205,60.09,58.32,61.92
+"Gambia, The","Africa","Western Africa",2022,3.792,67.6,65.83,69.41
+"Gaza Strip","Asia","Western Asia",2002,6.2,71.06,69.73,72.47
+"Gaza Strip","Asia","Western Asia",2022,3.44,75.4,73.65,77.25
+"Georgia","Asia","Western Asia",2002,1.6124,72.45,69.2,76.22
+"Georgia","Asia","Western Asia",2022,1.7512,77.5,73.45,81.74
+"Germany","Europe","Western Europe",2002,1.3303,78.37,75.64,81.25
+"Germany","Europe","Western Europe",2022,1.5744,81.51,79.15,84
+"Ghana","Africa","Western Africa",2002,4.5271,60.01,58.41,61.67
+"Ghana","Africa","Western Africa",2022,3.66,69.37,67.7,71.09
+"Gibraltar","Europe","Southern Europe",2002,2.14,75.99,75.17,76.85
+"Gibraltar","Europe","Southern Europe",2022,1.9049,80.42,77.58,83.41
+"Greece","Europe","Southern Europe",2002,1.2784,78.83,76.25,81.59
+"Greece","Europe","Southern Europe",2022,1.3951,81.49,78.96,84.2
+"Greenland","Americas","Northern America",2002,2.4931,68.31,65.2,71.51
+"Greenland","Americas","Northern America",2022,1.908,73.98,71.28,76.82
+"Grenada","Americas","Caribbean",2002,2.311,69.22,66.72,71.86
+"Grenada","Americas","Caribbean",2022,1.932,75.74,73.13,78.6
+"Guam","Oceania","Micronesia",2002,2.7176,76.69,74.35,79.24
+"Guam","Oceania","Micronesia",2022,2.784,77.5,75.07,80.08
+"Guatemala","Americas","Central America",2002,4.2575,67.34,65.75,69.02
+"Guatemala","Americas","Central America",2022,2.62,72.91,70.88,75.04
+"Guernsey","Europe","Northern Europe",2002,1.2139,79.71,77.57,82.03
+"Guernsey","Europe","Northern Europe",2022,1.5822,83.23,80.52,86.07
+"Guinea","Africa","Western Africa",2002,5.605,51.97,50.54,53.44
+"Guinea","Africa","Western Africa",2022,4.852,63.9,62.04,65.82
+"Guinea-Bissau","Africa","Western Africa",2002,5.412,51.06,49.08,53.09
+"Guinea-Bissau","Africa","Western Africa",2022,4.686,63.68,61.45,65.99
+"Guyana","Americas","South America",2002,3.7265,67.88,66,69.86
+"Guyana","Americas","South America",2022,2.064,71.87,70.03,73.8
+"Haiti","Americas","Caribbean",2002,4.2988,57.24,56.16,58.32
+"Haiti","Americas","Caribbean",2022,2.432,65.95,63.26,68.67
+"Honduras","Americas","Central America",2002,3.98,68.51,64.64,72.49
+"Honduras","Americas","Central America",2022,2.014,75.17,71.63,78.82
+"Hong Kong","Asia","Eastern Asia",2002,0.94,81.25,78.6,84.15
+"Hong Kong","Asia","Eastern Asia",2022,1.2232,83.61,80.91,86.46
+"Hungary","Europe","Eastern Europe",2002,1.3067,72.31,68.25,76.59
+"Hungary","Europe","Eastern Europe",2022,1.4828,77.2,73.55,81.06
+"Iceland","Europe","Northern Europe",2002,1.9438,80.35,78.4,82.38
+"Iceland","Europe","Northern Europe",2022,1.954,83.64,81.41,85.97
+"India","Asia","South-Central Asia",2002,3.112,63.78,62.45,65.27
+"India","Asia","South-Central Asia",2022,2.0975,67.22,65.46,69.16
+"Indonesia","Asia","South-Eastern Asia",2002,2.542,68.61,66.22,71.11
+"Indonesia","Asia","South-Eastern Asia",2022,2.014,73.08,70.86,75.4
+"Iran","Asia","South-Central Asia",2002,2.0568,68.73,67.44,70.09
+"Iran","Asia","South-Central Asia",2022,1.9255,75.25,73.89,76.67
+"Iraq","Asia","Western Asia",2002,4.84,68.13,66.51,69.83
+"Iraq","Asia","Western Asia",2022,3.246,73.18,71.3,75.15
+"Ireland","Europe","Northern Europe",2002,1.9758,77.55,74.97,80.26
+"Ireland","Europe","Northern Europe",2022,1.9185,81.66,79.35,84.1
+"Isle of Man","Europe","Northern Europe",2002,1.7692,77.78,75.53,80.35
+"Isle of Man","Europe","Northern Europe",2022,1.8899,82.04,80.23,84
+"Israel","Asia","Western Asia",2002,2.9231,79.01,76.9,81.22
+"Israel","Asia","Western Asia",2022,2.558,83.35,81.45,85.34
+"Italy","Europe","Southern Europe",2002,1.2405,80.36,77.59,83.29
+"Italy","Europe","Southern Europe",2022,1.2217,82.59,80.25,85.08
+"Jamaica","Americas","Caribbean",2002,2.485,71.05,69.22,72.97
+"Jamaica","Americas","Caribbean",2022,2.058,75.75,73.98,77.6
+"Japan","Asia","Eastern Asia",2002,1.3285,81.53,78.18,85.07
+"Japan","Asia","Eastern Asia",2022,1.3832,84.83,81.92,87.9
+"Jersey","Europe","Northern Europe",2002,1.402,78.04,75.85,80.37
+"Jersey","Europe","Northern Europe",2022,1.6567,82.63,80.13,85.28
+"Jordan","Asia","Western Asia",2002,4.0067,70.78,69.55,72.08
+"Jordan","Asia","Western Asia",2022,2.956,76.01,74.51,77.6
+"Kazakhstan","Asia","South-Central Asia",2002,1.9213,64.77,59.55,70.31
+"Kazakhstan","Asia","South-Central Asia",2022,2.108,72.53,67.43,77.31
+"Kenya","Africa","Eastern Africa",2002,4.975,55.03,54.86,55.21
+"Kenya","Africa","Eastern Africa",2022,3.294,69.69,67.98,71.43
+"Kiribati","Oceania","Micronesia",2002,3.765,61.02,58.86,63.29
+"Kiribati","Oceania","Micronesia",2022,2.202,67.9,65.3,70.64
+"Korea, North","Asia","Eastern Asia",2002,2.0867,63.65,59.03,68.48
+"Korea, North","Asia","Eastern Asia",2022,1.9,71.77,67.88,75.88
+"Korea, South","Asia","Eastern Asia",2002,1.2505,76.8,73.54,80.39
+"Korea, South","Asia","Eastern Asia",2022,1.1013,82.97,79.88,86.24
+"Kosovo","Europe","Southern Europe",2002,2.6645,67.9,65.69,70.3
+"Kosovo","Europe","Southern Europe",2022,1.8991,71.12,68.83,73.58
+"Kuwait","Asia","Western Asia",2002,2.5726,75.1,73.82,76.43
+"Kuwait","Asia","Western Asia",2022,2.2361,79.13,77.67,80.65
+"Kyrgyzstan","Asia","South-Central Asia",2002,2.5771,66.83,62.51,71.31
+"Kyrgyzstan","Asia","South-Central Asia",2022,2.496,72.35,68.27,76.71
+"Laos","Asia","South-Eastern Asia",2002,4.36,57.62,55.87,59.44
+"Laos","Asia","South-Eastern Asia",2022,2.352,68.15,66.49,69.88
+"Latvia","Europe","Northern Europe",2002,1.2374,70.45,66.09,75.03
+"Latvia","Europe","Northern Europe",2022,1.5423,75.91,71.47,80.56
+"Lebanon","Asia","Western Asia",2002,1.99,74.11,72.93,75.35
+"Lebanon","Asia","Western Asia",2022,1.71,78.76,77.36,80.23
+"Lesotho","Africa","Southern Africa",2002,3.6169,49.41,48.34,50.51
+"Lesotho","Africa","Southern Africa",2022,2.916,59.57,57.57,61.64
+"Liberia","Africa","Western Africa",2002,5.7325,54.91,53.08,56.8
+"Liberia","Africa","Western Africa",2022,4.788,65.45,63.19,67.78
+"Libya","Africa","Northern Africa",2002,NA,NA,NA,NA
+"Libya","Africa","Northern Africa",2022,3.09,77.18,74.94,79.53
+"Liechtenstein","Europe","Western Europe",2002,1.4833,79.23,76.48,82.18
+"Liechtenstein","Europe","Western Europe",2022,1.691,82.56,80.33,85.38
+"Lithuania","Europe","Northern Europe",2002,1.2211,71.46,65.71,77.52
+"Lithuania","Europe","Northern Europe",2022,1.6093,75.78,70.42,81.44
+"Luxembourg","Europe","Western Europe",2002,1.6966,78.48,75.07,82.07
+"Luxembourg","Europe","Western Europe",2022,1.6291,82.98,80.52,85.58
+"Macau","Asia","Eastern Asia",2002,0.8374,83.25,80.2,86.44
+"Macau","Asia","Eastern Asia",2022,1.22,84.98,82.09,88.02
+"Madagascar","Africa","Eastern Africa",2002,5.172,60.91,59.98,61.87
+"Madagascar","Africa","Eastern Africa",2022,3.624,68.17,66.8,69.57
+"Malawi","Africa","Eastern Africa",2002,6.065,60.08,57.15,63.05
+"Malawi","Africa","Eastern Africa",2022,3.404,72.44,69.33,75.59
+"Malaysia","Asia","South-Eastern Asia",2002,2.5061,73.88,71.92,75.97
+"Malaysia","Asia","South-Eastern Asia",2022,1.7509,76.13,74.5,77.87
+"Maldives","Asia","South-Central Asia",2002,2.5158,72.15,70.1,74.31
+"Maldives","Asia","South-Central Asia",2022,1.706,76.94,74.57,79.42
+"Mali","Africa","Western Africa",2002,7.0867,52.44,50.78,54.14
+"Mali","Africa","Western Africa",2022,5.54,62.41,60.19,64.7
+"Malta","Europe","Southern Europe",2002,1.4562,79.07,76.67,81.59
+"Malta","Europe","Southern Europe",2022,1.5027,83.2,81.11,85.38
+"Marshall Islands","Oceania","Micronesia",2002,4.2075,68.95,67.05,70.94
+"Marshall Islands","Oceania","Micronesia",2022,2.764,74.65,72.4,77.01
+"Mauritania","Africa","Western Africa",2002,4.98,57.62,55.65,59.64
+"Mauritania","Africa","Western Africa",2022,3.526,65.22,62.77,67.75
+"Mauritius","Africa","Eastern Africa",2002,1.9142,71.85,68.44,75.35
+"Mauritius","Africa","Eastern Africa",2022,1.3485,74.86,72.04,77.88
+"Mexico","Americas","Central America",2002,2.618,73.48,71.01,76.08
+"Mexico","Americas","Central America",2022,1.6753,72.32,68.93,75.88
+"Micronesia, Federated States of","Oceania","Micronesia",2002,3.622,68.71,66.99,70.52
+"Micronesia, Federated States of","Oceania","Micronesia",2022,2.242,74.44,72.34,76.66
+"Moldova","Europe","Eastern Europe",2002,1.32,67.61,64.02,71.48
+"Moldova","Europe","Eastern Europe",2022,1.5876,72.44,68.6,76.52
+"Monaco","Europe","Western Europe",2002,1.3168,88.09,85.09,91.47
+"Monaco","Europe","Western Europe",2022,1.5285,89.52,85.7,93.49
+"Mongolia","Asia","Eastern Asia",2002,2.1,65.04,61.71,68.54
+"Mongolia","Asia","Eastern Asia",2022,1.91,71.37,67.19,75.76
+"Montenegro","Europe","Southern Europe",2002,1.8635,74.45,71.83,77.34
+"Montenegro","Europe","Southern Europe",2022,1.8113,77.75,75.32,80.27
+"Montserrat","Americas","Caribbean",2002,1.1808,72.98,74.98,70.84
+"Montserrat","Americas","Caribbean",2022,1.3162,75.7,76.66,74.7
+"Morocco","Africa","Northern Africa",2002,2.792,67.24,65.66,68.9
+"Morocco","Africa","Northern Africa",2022,2.2906,73.68,71.98,75.46
+"Mozambique","Africa","Eastern Africa",2002,5.54,44.92,44.26,45.6
+"Mozambique","Africa","Eastern Africa",2022,4.8125,57.1,55.76,58.49
+"Namibia","Africa","Southern Africa",2002,4.0586,53.07,52.93,53.22
+"Namibia","Africa","Southern Africa",2022,2.982,66.47,64.46,68.53
+"Nauru","Oceania","Micronesia",2002,3.4072,61.64,57.84,64.81
+"Nauru","Oceania","Micronesia",2022,2.616,67.93,64.38,71.62
+"Nepal","Asia","South-Central Asia",2002,3.6839,63.1,62.21,64.03
+"Nepal","Asia","South-Central Asia",2022,1.904,72.4,71.66,73.17
+"Netherlands","Europe","Western Europe",2002,1.7212,78.29,76,80.7
+"Netherlands","Europe","Western Europe",2022,1.7757,82.16,79.93,84.49
+"New Caledonia","Oceania","Melanesia",2002,2.3147,74.35,70.41,78.48
+"New Caledonia","Oceania","Melanesia",2022,1.856,78.83,74.93,82.92
+"New Zealand","Oceania","Australia/New Zealand",2002,1.9562,78.8,76.7,80.98
+"New Zealand","Oceania","Australia/New Zealand",2022,1.8618,82.54,80.78,84.39
+"Nicaragua","Americas","Central America",2002,2.965,69.28,67.47,71.18
+"Nicaragua","Americas","Central America",2022,1.796,74.78,72.56,77.11
+"Niger","Africa","Western Africa",2002,8.2,47.43,46.54,48.36
+"Niger","Africa","Western Africa",2022,6.8194,60.09,58.55,61.68
+"Nigeria","Africa","Western Africa",2002,6.035,49.03,47.67,50.47
+"Nigeria","Africa","Western Africa",2022,4.618,61.33,59.51,63.27
+"North Macedonia","Europe","Southern Europe",2002,1.5514,73.02,70.6,75.6
+"North Macedonia","Europe","Southern Europe",2022,1.5132,76.84,74.73,79.08
+"Northern Mariana Islands","Oceania","Micronesia",2002,1.6157,73.81,71.89,76.06
+"Northern Mariana Islands","Oceania","Micronesia",2022,2.6277,76.58,74.48,79.03
+"Norway","Europe","Northern Europe",2002,1.7673,78.88,76.41,81.46
+"Norway","Europe","Northern Europe",2022,1.8312,82.55,80.42,84.79
+"Oman","Asia","Western Asia",2002,3.5179,72.04,70.22,73.96
+"Oman","Asia","Western Asia",2022,2.7025,76.9,74.96,78.93
+"Pakistan","Asia","South-Central Asia",2002,4.9329,62.56,60.99,64.21
+"Pakistan","Asia","South-Central Asia",2022,3.4631,69.67,67.62,71.82
+"Palau","Oceania","Micronesia",2002,1.8746,68.99,65.93,72.23
+"Palau","Oceania","Micronesia",2022,1.7,74.64,71.48,78
+"Panama","Americas","Central America",2002,2.5843,75.96,73.27,78.78
+"Panama","Americas","Central America",2022,2.3877,77.62,74.76,80.66
+"Papua New Guinea","Oceania","Melanesia",2002,4.476,64.27,62.89,65.72
+"Papua New Guinea","Oceania","Melanesia",2022,3.9165,69.43,67.76,71.19
+"Paraguay","Americas","South America",2002,2.99,74.07,71.71,76.54
+"Paraguay","Americas","South America",2022,1.888,78.37,75.72,81.15
+"Peru","Americas","South America",2002,2.8045,71.45,69.93,73.04
+"Peru","Americas","South America",2022,2.204,68.94,65.38,72.67
+"Philippines","Asia","South-Eastern Asia",2002,3.6081,69.65,65.87,73.63
+"Philippines","Asia","South-Eastern Asia",2022,2.7798,70.14,66.6,73.86
+"Poland","Europe","Eastern Europe",2002,1.2188,74.58,70.71,78.68
+"Poland","Europe","Eastern Europe",2022,1.4015,78.76,75.02,82.73
+"Portugal","Europe","Southern Europe",2002,1.4269,76.88,73.58,80.44
+"Portugal","Europe","Southern Europe",2022,1.4257,81.5,78.37,84.79
+"Puerto Rico","Americas","Caribbean",2002,NA,NA,NA,NA
+"Puerto Rico","Americas","Caribbean",2022,1.2432,81.68,78.47,85.08
+"Qatar","Asia","Western Asia",2002,2.8028,76,74.38,77.71
+"Qatar","Asia","Western Asia",2022,1.9026,79.81,77.7,81.96
+"Romania","Europe","Eastern Europe",2002,1.2267,71.09,67.55,74.84
+"Romania","Europe","Eastern Europe",2022,1.6297,75.75,72.3,79.4
+"Russia","Europe","Eastern Europe",2002,1.2852,65.81,59.6,72.38
+"Russia","Europe","Eastern Europe",2022,1.6009,72.44,66.92,78.3
+"Rwanda","Africa","Eastern Africa",2002,5.6212,53.37,51.82,54.97
+"Rwanda","Africa","Eastern Africa",2022,3.328,65.85,63.89,67.86
+"Saint Barthelemy","Americas","Caribbean",2002,1.6223,77.2,74.1,80.42
+"Saint Barthelemy","Americas","Caribbean",2022,1.6382,80.58,77.48,83.81
+"Saint Helena, Ascension, and Tristan da Cunha","Africa","Western Africa",2002,1.5343,77.05,74.13,80.12
+"Saint Helena, Ascension, and Tristan da Cunha","Africa","Western Africa",2022,1.6033,80.48,77.58,83.51
+"Saint Kitts and Nevis","Americas","Caribbean",2002,1.9468,72.99,72.42,73.55
+"Saint Kitts and Nevis","Americas","Caribbean",2022,1.7639,77.08,74.63,79.58
+"Saint Lucia","Americas","Caribbean",2002,1.9589,75.23,73.07,77.51
+"Saint Lucia","Americas","Caribbean",2022,1.722,78.95,76.21,81.84
+"Saint Martin","Americas","Caribbean",2002,1.8293,77.2,74.1,80.42
+"Saint Martin","Americas","Caribbean",2022,1.8029,80.58,77.48,83.81
+"Saint Pierre and Miquelon","Americas","Northern America",2002,1.5089,79.63,77.78,81.58
+"Saint Pierre and Miquelon","Americas","Northern America",2022,1.5885,81.41,79.05,83.9
+"Saint Vincent and the Grenadines","Americas","Caribbean",2002,2.3254,71.22,69.67,72.82
+"Saint Vincent and the Grenadines","Americas","Caribbean",2022,1.748,76.68,74.63,78.79
+"Samoa","Oceania","Polynesia",2002,4.3383,69.83,67.08,72.73
+"Samoa","Oceania","Polynesia",2022,2.4163,75.19,72.28,78.25
+"San Marino","Europe","Southern Europe",2002,1.3282,81.22,77.94,85.45
+"San Marino","Europe","Southern Europe",2022,1.5261,83.86,81.3,86.65
+"Sao Tome and Principe","Africa","Middle Africa",2002,5.924,59.68,58.77,60.62
+"Sao Tome and Principe","Africa","Middle Africa",2022,3.564,67.06,65.44,68.72
+"Saudi Arabia","Asia","Western Asia",2002,3.6776,72.48,71.17,73.84
+"Saudi Arabia","Asia","Western Asia",2022,1.9182,76.65,75.07,78.32
+"Senegal","Africa","Western Africa",2002,5.538,57.96,56.35,59.64
+"Senegal","Africa","Western Africa",2022,4.272,69.96,68.23,71.77
+"Serbia","Europe","Southern Europe",2002,1.5583,72.37,69.68,75.22
+"Serbia","Europe","Southern Europe",2022,1.4591,74.17,71.5,77
+"Seychelles","Africa","Eastern Africa",2002,2.1204,69.84,64.96,74.88
+"Seychelles","Africa","Eastern Africa",2022,1.818,76.1,71.67,80.66
+"Sierra Leone","Africa","Western Africa",2002,5.7938,44.71,43.54,45.92
+"Sierra Leone","Africa","Western Africa",2022,3.802,58.76,57.16,60.41
+"Singapore","Asia","South-Eastern Asia",2002,1.37,80.11,77.81,82.52
+"Singapore","Asia","South-Eastern Asia",2022,1.1573,86.35,83.65,89.2
+"Sint Maarten","Americas","Caribbean",2002,1.5479,74.83,72.7,77.07
+"Sint Maarten","Americas","Caribbean",2022,1.9943,79.26,76.91,81.73
+"Slovakia","Europe","Eastern Europe",2002,1.1806,73.65,69.72,77.77
+"Slovakia","Europe","Eastern Europe",2022,1.4552,78.31,74.83,82.04
+"Slovenia","Europe","Southern Europe",2002,1.1962,76.55,72.76,80.59
+"Slovenia","Europe","Southern Europe",2022,1.5952,81.82,78.96,84.79
+"Solomon Islands","Oceania","Melanesia",2002,4.426,71.84,69.39,74.41
+"Solomon Islands","Oceania","Melanesia",2022,2.87,76.7,74.05,79.49
+"Somalia","Africa","Eastern Africa",2002,7.046,47.12,45.48,48.82
+"Somalia","Africa","Eastern Africa",2022,5.3138,55.72,53.39,58.12
+"South Africa","Africa","Southern Africa",2002,2.719,56.98,56.3,57.67
+"South Africa","Africa","Southern Africa",2022,2.184,65.32,63.99,66.68
+"South Sudan","Africa","Northern Africa",2002,NA,NA,NA,NA
+"South Sudan","Africa","Northern Africa",2022,5.315,59.16,57.43,60.97
+"Spain","Europe","Southern Europe",2002,1.2424,79.58,76.28,83.08
+"Spain","Europe","Southern Europe",2022,1.2711,82.55,79.84,85.4
+"Sri Lanka","Asia","South-Central Asia",2002,2.265,73.55,69.61,77.65
+"Sri Lanka","Asia","South-Central Asia",2022,1.9825,78,74.57,81.56
+"Sudan","Africa","Northern Africa",2002,NA,NA,NA,NA
+"Sudan","Africa","Northern Africa",2022,4.5988,67.12,64.89,69.46
+"Suriname","Americas","South America",2002,2.7414,69.2,67.1,71.44
+"Suriname","Americas","South America",2022,1.924,72.42,68.81,76.27
+"Sweden","Europe","Northern Europe",2002,1.6582,79.98,77.88,82.31
+"Sweden","Europe","Northern Europe",2022,1.6666,82.7,80.94,84.58
+"Switzerland","Europe","Western Europe",2002,1.3647,80.38,77.77,83.15
+"Switzerland","Europe","Western Europe",2022,1.5802,83.23,80.91,85.67
+"Syria","Asia","Western Asia",2002,NA,NA,NA,NA
+"Syria","Asia","Western Asia",2022,2.796,74.28,72.82,75.84
+"Taiwan","Asia","Eastern Asia",2002,1.34,77.28,74.58,80.24
+"Taiwan","Asia","Eastern Asia",2022,1.083,81.16,78.17,84.34
+"Tajikistan","Asia","South-Central Asia",2002,3.3543,62.1,59.09,65.26
+"Tajikistan","Asia","South-Central Asia",2022,2.45,69.36,66.2,72.69
+"Tanzania","Africa","Eastern Africa",2002,5.4089,55.31,54.37,56.28
+"Tanzania","Africa","Eastern Africa",2022,4.39,70.19,68.42,72.02
+"Thailand","Asia","South-Eastern Asia",2002,1.6549,72.06,69,75.28
+"Thailand","Asia","South-Eastern Asia",2022,1.5394,77.66,74.65,80.83
+"Timor-Leste","Asia","South-Eastern Asia",2002,7.3999,60.79,59.37,62.31
+"Timor-Leste","Asia","South-Eastern Asia",2022,4.2081,69.92,68.25,71.7
+"Togo","Africa","Western Africa",2002,5.1945,61.56,59.4,63.77
+"Togo","Africa","Western Africa",2022,4.23,71.36,68.76,74.03
+"Tonga","Oceania","Polynesia",2002,4.3831,73.78,72.59,75
+"Tonga","Oceania","Polynesia",2022,2.758,77.53,75.89,79.23
+"Trinidad and Tobago","Americas","Caribbean",2002,1.5688,71.26,69.75,72.81
+"Trinidad and Tobago","Americas","Caribbean",2022,1.63,75.94,74.02,77.93
+"Tunisia","Africa","Northern Africa",2002,2.0367,73.06,71.75,74.48
+"Tunisia","Africa","Northern Africa",2022,1.996,76.82,75.14,78.6
+"Turkey","Asia","Western Asia",2002,2.4345,70.67,68.82,72.61
+"Turkey","Asia","Western Asia",2022,1.928,76.21,73.84,78.7
+"Turkmenistan","Asia","South-Central Asia",2002,2.62,65.48,62.66,68.45
+"Turkmenistan","Asia","South-Central Asia",2022,2.032,71.83,68.8,75
+"Turks and Caicos Islands","Americas","Caribbean",2002,2.5057,78.81,76.01,81.75
+"Turks and Caicos Islands","Americas","Caribbean",2022,1.7,80.82,78.07,83.71
+"Tuvalu","Oceania","Polynesia",2002,3.4767,61.58,59.67,63.58
+"Tuvalu","Oceania","Polynesia",2022,2.832,68.38,65.96,70.92
+"Uganda","Africa","Eastern Africa",2002,7.0179,51.11,50.06,52.18
+"Uganda","Africa","Eastern Africa",2022,5.356,68.96,66.71,71.27
+"Ukraine","Europe","Eastern Europe",2002,1.1251,68.07,62.56,73.93
+"Ukraine","Europe","Eastern Europe",2022,1.5614,73.45,68.8,78.39
+"United Arab Emirates","Asia","Western Asia",2002,2.469,76.34,74.97,77.75
+"United Arab Emirates","Asia","Western Asia",2022,1.6356,79.56,78.21,80.99
+"United Kingdom","Europe","Northern Europe",2002,1.6608,78.11,75.84,80.5
+"United Kingdom","Europe","Northern Europe",2022,1.6282,81.94,79.95,84.04
+"United States","Americas","Northern America",2002,NA,NA,NA,NA
+"United States","Americas","Northern America",2022,1.84317,80.59,78.36,82.79
+"Uruguay","Americas","South America",2002,2.2259,74.54,71.39,77.8
+"Uruguay","Americas","South America",2022,1.758,78.43,75.32,81.64
+"Uzbekistan","Asia","South-Central Asia",2002,2.5092,69.95,67.35,72.72
+"Uzbekistan","Asia","South-Central Asia",2022,1.728,75.29,72.27,78.5
+"Vanuatu","Oceania","Melanesia",2002,4.5375,68.28,66.95,69.67
+"Vanuatu","Oceania","Melanesia",2022,2.658,75.14,73.45,76.91
+"Venezuela","Americas","South America",2002,2.76,72.65,69.78,75.67
+"Venezuela","Americas","South America",2022,2.22,73.29,70.12,76.62
+"Vietnam","Asia","South-Eastern Asia",2002,2.28,71.75,69.17,74.46
+"Vietnam","Asia","South-Eastern Asia",2022,2.0523,75.52,72.95,78.37
+"Virgin Islands, British","Americas","Caribbean",2002,1.1967,77.19,75.41,79.07
+"Virgin Islands, British","Americas","Caribbean",2022,1.3529,79.67,78.17,81.25
+"Virgin Islands, U.S.","Americas","Caribbean",2002,2.2076,77.54,74.44,80.82
+"Virgin Islands, U.S.","Americas","Caribbean",2022,1.998,80.27,77.08,83.65
+"Wallis and Futuna","Oceania","Polynesia",2002,2.4133,76.63,74.39,78.98
+"Wallis and Futuna","Oceania","Polynesia",2022,1.7099,80.67,77.68,83.81
+"West Bank","Asia","Western Asia",2002,4.346,72.38,70.61,74.25
+"West Bank","Asia","Western Asia",2022,2.962,76.38,74.29,78.6
+"Yemen","Asia","Western Asia",2002,6.2484,60.34,58.53,62.24
+"Yemen","Asia","Western Asia",2022,3.008,67.51,65.19,69.94
+"Zambia","Africa","Eastern Africa",2002,5.9471,47.34,46.17,48.54
+"Zambia","Africa","Eastern Africa",2022,4.5595,66.26,64.52,68.06
+"Zimbabwe","Africa","Eastern Africa",2002,3.8617,44.58,44.19,44.99
+"Zimbabwe","Africa","Eastern Africa",2022,3.894,63.32,61.18,65.52
